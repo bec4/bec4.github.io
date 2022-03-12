@@ -18,21 +18,67 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: BEC4
+# email: bec4@mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Homepage of the BEC4 lab at MIT.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://bec4.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
 # Build settings
-theme: minima
+# theme: alembic-jekyll-theme
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-commonmark
+  - jemoji
+
+remote_theme: daviddarnes/alembic@main
+
+# 4. Jekyll settings
+# sass:
+  # style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+
+# 6. Site wide defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page # Default layout
+
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+  - scope:
+      path: ""
+      type: tag
+    values:
+      layout: tag
+collections:
+  tag:
+      output: true
+
+navigation_header:
+  - title: Home
+    url: /
+  - title: Contact
+    url: /Contact/
+
+navigation_footer:
+  - title: BEC4
+    url: /
 
 # Exclude from processing.
 # The following items will not be processed, by default.
