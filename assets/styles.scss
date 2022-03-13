@@ -7,4 +7,8 @@ $linkColour: #bf1111;
 $hoverColour: #700000;
 $headingColour: #380000;
 
+.MathJax .mi, .MathJax .mo {
+    color: inherit;
+}
+
 @import "alembic";
