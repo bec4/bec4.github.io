@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Members
+title: Team
 ---
 
-## Current members:
+## Current team:
 - Jacob Fricke (master's student from ETH)
 - Enid Cruz-Colón (graduate student)
 - Jinggang Xiang (graduate student)

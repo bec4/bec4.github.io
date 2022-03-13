@@ -73,12 +73,12 @@ collections:
 navigation_header:
   - title: Home
     url: /
-  - title: Publications
-    url: /publications/
+  - title: Science
+    url: /science/
   - title: Contact
     url: /contact/
-  - title: Members
-    url: /members/
+  - title: Team
+    url: /team/
 
 navigation_footer:
   - title: BEC4
