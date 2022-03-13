@@ -73,6 +73,8 @@ collections:
 navigation_header:
   - title: Home
     url: /
+  - title: Publications
+    url: /publications/
   - title: Contact
     url: /contact/
   - title: Members
