@@ -3,7 +3,7 @@ title: Welcome to our lab!
 feature_text: |
     ## <span style="color:#f2f2f2">BEC4</span>
     <span style="color:#f2f2f2">The rubidium lattice lab at MIT</span>
-feature_image: https://www.rle.mit.edu/cua_pub/ketterle_group/experimental_setup/BEC_IV/rubidium.jpg
+feature_image: /assets/img/lab.jpg
 ---
 
 Welcome to the website of BEC4! Our research focuses on exploring the world of ultracold atoms, where many new and interesting phenomena occur.
