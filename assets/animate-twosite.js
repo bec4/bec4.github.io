@@ -15,7 +15,8 @@ function animate_twosite() {
     .append("svg")
     .attr("height", height)
     .attr("width", width)
-    .style("background-color", "#ffffff");
+    .style("background-color", "#ffffff")
+    .style("cursor", "pointer");
     // .attr("viewBox", [100, 40, 300, 500]);
     //.style("background-color", "#1d2c4a");
 
