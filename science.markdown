@@ -32,7 +32,7 @@ Have a look at our [MIT wiki page](https://wikis.mit.edu/confluence/display/bec4
 - [Preparation of the Spin-Mott State: A Spinful Mott Insulator of Repulsively Bound Pairs](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.093401), Phys. Rev. Lett. **129**, 093401 (2022)
 
 Particles in a sufficiently deep lattice can be described by the Bose-Hubbard model. Here we assume they tunnel around with some rate $t$, and that they have an on-site interaction $U$.
-In our lab we've been studying what happens when there are two particles per site which are allowed to be in different spin states. Things get interesting when they have a tunable interparticle interaction $U_{AB}$ (typically such that $0 \leq U_{AB} \leq U$). If we tune this all the way to zero, the energetically most favorable state is to have an A and a B particle on every site, this is the spin Mott insulator, and we studied it in the paper mentioned above.
+In our lab we've been studying what happens when there are two particles per site which are allowed to be in different spin states. We denote these by A and B, but really they're just different hyperfine states of rubidium ($\|F, m_F\rangle$). Things get interesting when they have a tunable interparticle interaction $U_{AB}$ (typically such that $0 \leq U_{AB} \leq U$). If we tune this all the way to zero, the energetically most favorable state is to have an A and a B particle on every site, this is the spin Mott insulator, and we studied it in the paper mentioned above.
 
 When $U_{AB} = U$, the ground state is highly degenerate: it doesn't matter what spin configuration you have anymore, because all energies are the same. On the way to that point, however, the AB state starts to 'fluctuate,' meaning it will undergo excursions to AA or BB. These fluctuations are highly correlated between neighbors - after all, they need to exchange particles - and this tate is called an XY ferromagnet. (Our lab was involved in a [theory collaboration](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.041602) to explore the full phase diagram.)
 
@@ -53,6 +53,12 @@ In the lab we implement this using a spin-dependent lattice, which gives us cont
 
 ### Spin-1 out of equilibrium
 - [Tunable Single-Ion Anisotropy in Spin-1 Models Realized with Ultracold Atoms](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.163203), Phys. Rev. Lett. **126**, 163203 (2021)
+
+We can use our the spin degree of freedom to mimic a $S = 1$ Heisenberg Hamiltonian. Under this transformation, the occupation states $\|AA\rangle$, $\|AB\rangle$ and $\|BB\rangle$ are mapped onto $\|S = 1, m_S\rangle$ states which we can abbreviate as $\|\Downarrow\rangle$, $\|\circ\rangle$, and $\|\Uparrow\rangle$.
+
+We have studied the behavior of this model in the presence of an *anisotropy*, i.e. a term in the Hamiltonian proportional to $(S_z)^2$. If this term is positive it favors populating the $\|\circ\rangle$ state ($S_z = 0$), if it's negative it favors $S_z = \pm 1$. We investigated the effect of this term by preparing all effective spins in the $\|\Downarrow\rangle$ state, followed by a rotation of 90$^\circ$ (implemented using a microwave pulse). This creates a well-defined superposition of all states, which is not the ground state of the Hamiltonian, but in a deep lattice it is nevertheless stable. Finally, we suddenly ramp (quench) into a shallower lattice, and look at how this state evolves. At first, the evolution is coherent, but after a while it decays to a thermal mixture.
+
+The initial coherent oscillation is the result of superexchange, whereby neighboring spins can undergo a flip-flop interaction. The animation below is based on the two-site toy model developed in the paper cited above. You can simulate the quench by clicking it. In the experiment we measure the population in the $S_z = 0$ state, also known as the 'spin alignment.' In this figure that's the projection on the $z$ axis.
 
 <div id = "two-site-container"></div>
 <p style="text-align:center">
