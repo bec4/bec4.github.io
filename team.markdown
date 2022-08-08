@@ -3,6 +3,8 @@ layout: page
 title: Team
 ---
 
+![](/assets/img/bec4-team-on-lawn.jpg)
+
 ## Current team:
 - Jacob Fricke (master's student from ETH)
 - Enid Cruz-Colón (graduate student)
