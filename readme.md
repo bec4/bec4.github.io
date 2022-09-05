@@ -12,7 +12,7 @@ If you want to change some of the structure of the HTML files you need to go int
 If you want to change the style you need to edit `/assets/styles.scss`, this is a style sheet that overrides the theme defaults. The rules that are configured here are used by Jekyll to generate the full set of style sheets for the final website.
 
 ## Running Jekyll locally
-Setting Jekyll up locally is mildly annoying because it requires a Ruby installation. It's easiest to do this on a Mac or Linux machine, although there are [installation instructions](https://jekyllrb.com/docs/installation/) for Windows, too.
+Setting Jekyll up locally is mildly annoying because it requires a Ruby installation. It's easiest to do this on a Mac or Linux machine, although there are [installation instructions](https://jekyllrb.com/docs/installation/) for Windows, too. You'll probably have an easier time though if you install the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install).
 
 Once you've made it that far, though, running a local server with the website is easy. Just `cd` into the repo directory and do
 ```
