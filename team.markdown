@@ -6,15 +6,14 @@ title: Team
 ![](/assets/img/bec4-team-on-lawn.jpg)
 
 ## Current team:
-- Jacob Fricke (master's student from ETH)
-- Enid Cruz-Colón (graduate student)
 - Jinggang Xiang (graduate student)
-- Julius de Hond (postdoc)
+- Enid Cruz-Colón (graduate student)
 - Wolfgang Ketterle (professor)
 
 ## Past members:
 #### Post-Doctoral Associates
 
+- Julius de Hond (Hardware/software quantum engineer at PASQAL, Paris, France)
 - Wenlan Chen (Assistant Professor of Physics at Tsinghua University, Beijing, China)
 - Georgios Siviloglou (Associate Researcher at Southern University of Science and Technology, China)
 - David Weld (Professor of Physics at the University of California, Santa Barbara)
@@ -24,6 +23,7 @@ title: Team
 
 #### Graduate Students
 
+- Jacob Fricke (Master's Diploma from ETH 2023) (Ph.D. student at ETH)
 - Woo Chang Chung (Ph.D. 2021) (AMO scientist at ColdQuanta)
 - William Cody Burton (Ph.D. 2018) (AMO scientist at Honeywell Quantum Solutions)
 - Colin Kennedy (Ph.D. 2017) (NRC postdoctoral fellow in Jun Ye's group at NIST/UC Boulder)
