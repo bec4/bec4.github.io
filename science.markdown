@@ -24,6 +24,7 @@ feature_image: /assets/img/spin-dependent-lattice.png
 }
 </style>
 
+Currently building a Rubidium quantum gas microscope!
 
 Recently, we've been studying the mapping between the Bose--Hubbard model with a spin degree of freedom and the $S = 1$ Heisenberg model. 
 Have a look at our [MIT wiki page](https://wikis.mit.edu/confluence/display/bec4/Publications) for a complete list of previous publications.
