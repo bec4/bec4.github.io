@@ -28,11 +28,13 @@ We have a newly constructed Rubidium quantum gas microscope! Using a high-resolu
 
 ![](/assets/test_image.jpg)
 
-We are currently exporing density-density correlations under our microscope.
+The original Hanbury Brown and Twiss (HBT) experiment observed a spatial correlation of the intensity fluctuations for light emitted from the distant star Sirius. These fluctuations represent an optical speckle pattern with a characteristic length scale of the optical wavelength $\lambda$ on the star's surface. When light propagates from a distant star of radius $R$ to the earth at distance $D$, the speckle size is magnified to $\lambda D/R$, which HBT determined to be around $5~\mathrm{m}$ for Sirius.
+
+Matter waves have an equivalent speckle pattern with a characteristic grain size of the thermal de Broglie wavelength $\lambda_{\text{dB}} = h/\sqrt{2\pi m k_{B} T}$. The atomic speckle is a quantum effect, given that its scale involves Planck's constant, $h$. In contrast, a classical gas has purely Poissonian fluctuations, which has no length scale since there are no correlations in the gas. Similar to light propagation, ballistic expansion of ultracold atoms magnifies the \textit{in situ} correlation length in the far-field by $D/R$. 
 
 ![](/assets/hbt_speckle.png)
 
-We detect pairs of atoms with microscope. Observe enhanced correlations at short range. 
+To detect this speckle pattern, we project the 2D Bose distribution onto a pinning lattice and reconstruct the site-by-site lattice occupation. To determine the bosonic enhancement, we count pairs of atoms separated by distance $r$ and determine the enhancement factor $g^{(2)}(r)$ over the classical distribution corresponding to fully distinguishable particles. On the lattice grid, we show the distance between three types of pairs, corresponding to the nearest-neighbor (NN, red), next-nearest-neighbor (NNN, blue), and third-nearest-neighbor (N3, green). 
 
 ![](/assets/pairs.png)
 
