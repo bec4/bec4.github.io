@@ -32,6 +32,11 @@ We are currently exporing density-density correlations under our microscope.
 
 ![](/assets/hbt_speckle.png)
 
+Detect pairs of atoms with microscope. Observe enhanced correlations at short range. 
+
+![](/assets/pairs.png)
+
+
 Previously, we studyied the mapping between the Bose--Hubbard model with a spin degree of freedom and the $S = 1$ Heisenberg model. 
 Have a look at our [MIT wiki page](https://wikis.mit.edu/confluence/display/bec4/Publications) for a complete list of previous publications.
 
