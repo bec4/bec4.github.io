@@ -8,6 +8,8 @@ title: Team
 ## Current team:
 - Jinggang Xiang (graduate student)
 - Enid Cruz-Colón (graduate student)
+- Candice Chua (graduate student)
+- Will Milner (postdoc)
 - Wolfgang Ketterle (professor)
 
 ## Past members:
