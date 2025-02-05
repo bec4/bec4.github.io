@@ -11,7 +11,7 @@ feature_image: /assets/img/bec4-machine.jpg
 
 Welcome to the website of BEC4! Our research focuses on exploring the world of spinful ultracold atoms, where many new and interesting phenomena occur.
 
-
+![](/assets/DSC_6471-scaled.jpg)
 
 One direction of our research is to create systems analogous to solids in condensed matter systems by using ultracold atoms in optical lattices. Major challenges we addressed with our research is cooling these gases to lower temperatures and probing the new states of matter we expect to find as new energy scales become accessible. To this end, we have pioneered the methods of demagnetization cooling and Bragg scattering for ultracold atoms in optical lattices.
 
