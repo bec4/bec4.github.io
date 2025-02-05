@@ -32,7 +32,7 @@ We are currently exporing density-density correlations under our microscope.
 
 ![](/assets/hbt_speckle.png)
 
-Detect pairs of atoms with microscope. Observe enhanced correlations at short range. 
+We detect pairs of atoms with microscope. Observe enhanced correlations at short range. 
 
 ![](/assets/pairs.png)
 
