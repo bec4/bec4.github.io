@@ -24,6 +24,8 @@ feature_image: /assets/img/spin-dependent-lattice.png
 }
 </style>
 
+### Imaging the thermal de Broglie wavelength
+
 - [In situ imaging of the thermal de Broglie wavelength in an ultracold Bose gas](https://arxiv.org/pdf/2411.08779), arXiv (2024)
 
 Our first experiment with our microscope emulated the original Hanbury Brown and Twiss (HBT) experiment using ultracold atoms behaving as matter waves rather than photons. HBT observed a spatial correlation of the intensity fluctuations for light emitted from the distant star Sirius. These fluctuations represent an optical speckle pattern with a characteristic length scale of the optical wavelength $\lambda$ on the star's surface. When light propagates from a distant star of radius $R$ to the earth at distance $D$, the speckle size is magnified to $\lambda D/R$, which HBT determined to be around $5~\mathrm{m}$ for Sirius.
