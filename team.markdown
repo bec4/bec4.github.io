@@ -12,6 +12,8 @@ title: Team
 - Will Milner (postdoc)
 - Wolfgang Ketterle (professor)
 
+Motivated students interested in joining BEC4 should contact us at bec4 [at] mit.edu.
+
 ## Past members:
 #### Post-Doctoral Associates
 
