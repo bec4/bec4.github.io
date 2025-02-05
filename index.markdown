@@ -13,8 +13,6 @@ Welcome to the website of BEC4! Our research focuses on exploring the world of s
 
 ![](/assets/DSC_6471-scaled.jpg)
 
-One direction of our research is to create systems analogous to solids in condensed matter systems by using ultracold atoms in optical lattices. Major challenges we addressed with our research is cooling these gases to lower temperatures and probing the new states of matter we expect to find as new energy scales become accessible. To this end, we have pioneered the methods of demagnetization cooling and Bragg scattering for ultracold atoms in optical lattices.
+We have a newly constructed Rubidium quantum gas microscope! Using a high-resolution objective lens, we can detect the positions of single atoms trapped in an optical lattice. This advance has opened the door to studies of quantum simulation and atom-light interfaces in new regimes. 
 
-Another direction for our research is the possibility of creating states of matter that do not exist in the traditional condensed matter context. To this end, we are exploring the control offered via state-dependent lattices to manipulate and cool different spin states in the lattice.
-
-
+![](/assets/schematic.png)
