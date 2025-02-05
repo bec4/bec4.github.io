@@ -24,7 +24,7 @@ feature_image: /assets/img/spin-dependent-lattice.png
 }
 </style>
 
-We have a newly constructed Rubidium quantum gas microscope! Using a high-resolution objective lens, we can detect the positions of single atoms trapped in an optical lattice. This advance has opened the door to new opportinities for studies of quantum simulation and atom-light interfaces in new regimes. 
+We have a newly constructed Rubidium quantum gas microscope! Using a high-resolution objective lens, we can detect the positions of single atoms trapped in an optical lattice. This advance has opened the door to studies of quantum simulation and atom-light interfaces in new regimes. 
 
 Previously, we studyied the mapping between the Bose--Hubbard model with a spin degree of freedom and the $S = 1$ Heisenberg model. 
 Have a look at our [MIT wiki page](https://wikis.mit.edu/confluence/display/bec4/Publications) for a complete list of previous publications.
