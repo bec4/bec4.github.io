@@ -36,7 +36,7 @@ To detect this speckle pattern, we project the 2D Bose distribution onto a pinni
 
 ![](/assets/pairs.png)
 
-Next we will extend these correlation studies to new confinement and interaction regimes. 
+Next, we will extend these correlation studies to new confinement and interaction regimes. 
 
 <p style="text-align:center">
     <img src="/assets/BEC_onset.gif">
