@@ -36,6 +36,12 @@ To detect this speckle pattern, we project the 2D Bose distribution onto a pinni
 
 ![](/assets/pairs.png)
 
+<p style="text-align:center">
+    <img src="/assets/BEC_onset.gif">
+    <p style="text-align:center">
+    <em>Preparing our system around $T/T_{C}$, we observe a microscopic realization of the BEC quantum phase transition.</em>
+    </p>
+</p>
 
 Previously, we studyied the mapping between the Bose--Hubbard model with a spin degree of freedom and the $S = 1$ Heisenberg model. 
 Have a look at our [MIT wiki page](https://wikis.mit.edu/confluence/display/bec4/Publications) for a complete list of previous publications.
