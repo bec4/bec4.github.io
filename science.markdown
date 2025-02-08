@@ -41,7 +41,7 @@ Next, we will extend these correlation studies to new confinement and interactio
 <p style="text-align:center">
     <img src="/assets/BEC_onset.gif">
     <p style="text-align:center">
-    <em>Preparing our system around $T/T_{C}$, we observe a microscopic realization of the BEC quantum phase transition.</em>
+    <em>Preparing our system around $T/T_{C}$, we observe a microscopic realization of the BEC phase transition.</em>
     </p>
 </p>
 
