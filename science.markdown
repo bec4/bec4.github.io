@@ -24,6 +24,8 @@ feature_image: /assets/img/spin-dependent-lattice.png
 }
 </style>
 
+Our quantum gas microscope allows us to detect single atoms, opening the door to new directions for physics studies. First, we are interested in exploring atoms in a "bulk" gas using our microscope solely for readout. Large ensembles of atoms in a harmonic trap exhibit a wide range of phenomena ranging from superfluidity to vortex formation. Probing these ensembles microscopically offers the capability to observe new observables like short range correlations. For future studies, we plan to extend these techniques to new regimes using spin-dependent potentials developed in previous studies on this platform. 
+
 ### Imaging the thermal de Broglie wavelength
 
 - [In situ imaging of the thermal de Broglie wavelength in an ultracold Bose gas](https://arxiv.org/pdf/2411.08779), arXiv (2024)
