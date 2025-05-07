@@ -24,6 +24,8 @@ feature_image: /assets/img/spin-dependent-lattice.png
 }
 </style>
 
+![](/assets/Viewpoint.jpg)
+
 Our quantum gas microscope allows us to detect single atoms, opening the door to new directions for physics studies. First, we are interested in exploring atoms in a "bulk" gas using our microscope solely for readout. Large ensembles of atoms in a harmonic trap exhibit a wide range of phenomena spanning from superfluidity to vortex formation. Studying these ensembles microscopically offers the capability to probe observables not afforded by standard low-resolution imaging like short-range correlations. For future studies, we plan to extend these techniques to new regimes using spin-dependent potentials developed in previous studies on this experimental platform. 
 
 ### Imaging the thermal de Broglie wavelength
