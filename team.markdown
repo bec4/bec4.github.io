@@ -6,7 +6,6 @@ title: Team
 ![](/assets/img/bec4-team-on-lawn.jpg)
 
 ## Current team:
-- Jinggang Xiang (graduate student)
 - Enid Cruz-Colón (graduate student)
 - Candice Chua (graduate student)
 - Will Milner (postdoc)
@@ -27,6 +26,7 @@ Motivated students interested in joining BEC4 should contact us at bec4 [at] mit
 
 #### Graduate Students
 
+- Jinggang Xiang (Ph.D. 2025) (Optical Engineer at Apple)
 - Jacob Fricke (Master's Diploma from ETH 2023) (Ph.D. student at ETH)
 - Woo Chang Chung (Ph.D. 2021) (AMO scientist at ColdQuanta)
 - William Cody Burton (Ph.D. 2018) (AMO scientist at Honeywell Quantum Solutions)
