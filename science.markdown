@@ -31,7 +31,7 @@ Our quantum gas microscope allows us to detect single atoms, opening the door to
 - [In situ imaging of the thermal de Broglie wavelength in an ultracold Bose gas](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.183401), Phys. Rev. Lett. (2025)
 - Featured [Physics Viewpoint](https://physics.aps.org/articles/v18/89)
 
-<object data="/assets/PRL-cover-g2.pdf" width="1000" height="1000" type='application/pdf'></object>
+![](/assets/prl-cover-g2.png)
 
 Our first experiment with our microscope emulated the original Hanbury Brown and Twiss (HBT) experiment using ultracold atoms behaving as matter waves rather than photons. HBT observed a spatial correlation of the intensity fluctuations for light emitted from the distant star Sirius. These fluctuations represent an optical speckle pattern with a characteristic length scale of the optical wavelength $\lambda$ on the star's surface. When light propagates from a distant star of radius $R$ to the earth at distance $D$, the speckle size is magnified to $\lambda D/R$, which HBT determined to be around $5~\mathrm{m}$ for Sirius. Matter waves have an equivalent speckle pattern with a characteristic grain size of the thermal de Broglie wavelength $\lambda_{\text{dB}} = h/\sqrt{2\pi m k_{B} T}$.  Similar to light propagation, ballistic expansion of ultracold atoms magnifies the $\textit{in situ}$ correlation length in the far-field by $D/R$. 
 
