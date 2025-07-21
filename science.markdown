@@ -30,6 +30,7 @@ Our quantum gas microscope allows us to detect single atoms, opening the door to
 
 - [In situ imaging of the thermal de Broglie wavelength in an ultracold Bose gas](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.183401), Phys. Rev. Lett. (2025)
 - Featured [Physics Viewpoint](https://physics.aps.org/articles/v18/89)
+- [Physics World article](https://physicsworld.com/a/physicists-take-snapshots-of-quantum-gases-in-continuous-space/)
 
 ![](/assets/prl-cover-g2.png)
 
