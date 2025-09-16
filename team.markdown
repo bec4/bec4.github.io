@@ -8,6 +8,7 @@ title: Team
 ## Current team:
 - Enid Cruz-Colón (graduate student)
 - Candice Chua (graduate student)
+- Yu Lu (graduate student)
 - Will Milner (postdoc)
 - Wolfgang Ketterle (professor)
 
