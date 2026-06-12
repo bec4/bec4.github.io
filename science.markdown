@@ -26,6 +26,10 @@ feature_image: /assets/img/spin-dependent-lattice.png
 
 Our quantum gas microscope allows us to detect single atoms, opening the door to new directions for physics studies. First, we are interested in exploring atoms in a "bulk" gas using our microscope solely for readout. Large ensembles of atoms in a harmonic trap exhibit a wide range of phenomena spanning from superfluidity to vortex formation. Studying these ensembles microscopically offers the capability to probe observables not afforded by standard low-resolution imaging like short-range correlations. For future studies, we plan to extend these techniques to new regimes using spin-dependent potentials developed in previous studies on this experimental platform. 
 
+### Cooling atoms to picokelvin temperatures
+Our team has now achieved single-atom resolution of clouds with temperatures as low as hundreds of picokelvin!
+
+
 ### Imaging the thermal de Broglie wavelength
 
 - [In situ imaging of the thermal de Broglie wavelength in an ultracold Bose gas](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.183401), Phys. Rev. Lett. (2025)
