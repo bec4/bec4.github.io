@@ -9,9 +9,11 @@ feature_image: /assets/bec4_text.png
 <script src="assets/d3.min.js"></script>
 <script src='https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js'></script>
 
-Welcome to the website of BEC4! Our research focuses on exploring the world of spinful ultracold atoms, where many new and interesting phenomena occur.
+Welcome to the website of BEC4, the Ketterle lab's Rubidium-87 quantum gas microscope experiment! Our research focuses on exploring the world of spinful ultracold atoms, where many new and interesting phenomena occur.
 
 ![](/assets/schematic.png)
 
-We have a newly constructed rubidium quantum gas microscope! Using a high-resolution objective lens, we can detect the positions of single atoms trapped in an optical lattice. This advance has opened the door to studies of quantum simulation and atom-light interfaces in new regimes. 
+We have a newly constructed rubidium quantum gas microscope. Using a high-resolution objective lens, we can detect the positions of single atoms trapped in an optical lattice. This advance has opened the door to studies of quantum simulation and atom-light interfaces in new regimes. 
 Learn more about the science we are exploring on this experimental platform in the next section. 
+
+This website follows MIT's digital accessibility commitment, as per https://accessibility.mit.edu/. 
