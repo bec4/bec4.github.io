@@ -27,7 +27,7 @@ feature_image: /assets/img/spin-dependent-lattice.png
 Our quantum gas microscope allows us to detect single atoms, opening the door to new directions for physics studies. First, we are interested in exploring atoms in a "bulk" gas using our microscope solely for readout. Large ensembles of atoms in a harmonic trap exhibit a wide range of phenomena spanning from superfluidity to vortex formation. Studying these ensembles microscopically offers the capability to probe observables not afforded by standard low-resolution imaging like short-range correlations. For future studies, we plan to extend these techniques to new regimes using spin-dependent potentials developed in previous studies on this experimental platform. 
 
 ### Cooling atoms to picokelvin temperatures
-Our team has now achieved single-atom resolution of clouds with temperatures as low as hundreds of picokelvin! The image below features one such cloud. On the left side, we show the raw image. On the right, we show the reconstructed lattice occupation with a dashed outline indicating the harmonic oscillator length. 
+Our team has now achieved single-atom resolution of clouds with temperatures as low as hundreds of picokelvin! The image below features one such cloud with 64 atoms and a 70% condensate fraction. On the left side, we show the raw image. On the right, we show the reconstructed lattice occupation with a dashed outline indicating the harmonic oscillator length. The colour bar indicates the probability of an atom occupying the ground state.
 
 ![](/assets/picokelvin_cloud.png)
 
