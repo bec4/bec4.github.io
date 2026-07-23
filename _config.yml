@@ -80,6 +80,8 @@ navigation_header:
   - title: Team
     url: /team/
 
+logo: /assets/logo.png
+
 navigation_footer:
   - title: BEC4
     url: /
