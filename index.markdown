@@ -16,4 +16,4 @@ Welcome to the website of BEC4, the Ketterle lab's Rubidium-87 quantum gas micro
 We have a newly constructed rubidium quantum gas microscope. Using a high-resolution objective lens, we can detect the positions of single atoms trapped in an optical lattice. This advance has opened the door to studies of quantum simulation and atom-light interfaces in new regimes. 
 Learn more about the science we are exploring on this experimental platform in the next section. 
 
-This website follows MIT's digital accessibility commitment, as per https://accessibility.mit.edu/. 
+MIT's digital accessibility commitment is outlined at https://accessibility.mit.edu/. 
